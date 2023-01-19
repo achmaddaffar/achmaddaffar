@@ -21,10 +21,10 @@
 <h2 align="left">🎯 Statistics</h3>
 
 <div align="center">
-<p><img align="cemter" src="https://github-readme-stats.vercel.app/api/top-langs?username=achmaddaffar&show_icons=true&locale=en&layout=compact" alt="damieroliverroot" /></p>
+<p><img align="cemter" src="https://github-readme-stats.vercel.app/api/top-langs?username=achmaddaffar&show_icons=true&locale=en&layout=compact" alt="achmaddaffar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achmaddaffar&show_icons=true&locale=en" alt="damieroliverroot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achmaddaffar&show_icons=true&locale=en" alt="achmaddaffar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achmaddaffar&" alt="damieroliverroot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achmaddaffar&" alt="achmaddaffar" /></p>
 
 </div>
