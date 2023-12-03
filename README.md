@@ -8,8 +8,8 @@
 <h2 align="left">🌐 Connect with me</h2>
 <div align="center">
 <p align="left">
-<a href="https://www.linkedin.com/in/achmad-daffa-rabbani-93176217b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achmad daffa rabbani" height="30" width="40" /></a>
-<a href="https://www.instagram.com/daffawew/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daffawew" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/achmad-daffa-rabbani-93176217b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achmad daffa rabbani" height="30" width="40" /></a>
+<a href="https://www.instagram.com/daffawew/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daffawew" height="30" width="40" /></a>
 </p>
 </div>
 
